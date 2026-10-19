@@ -1,0 +1,9 @@
+{
+  "name": "test-repo-1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Starter code for test-repo-1",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
